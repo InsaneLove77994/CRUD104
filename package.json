@@ -1,5 +1,5 @@
 {
-  "name": "loginapi",
+  "name": "api_sgci",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "description": "",
   "dependencies": {
     "express": "^4.19.2",
-    "nodemon": "^3.1.4"
+    "mongoose": "^8.4.4"
   }
 }
